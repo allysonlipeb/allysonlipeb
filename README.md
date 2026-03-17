@@ -2,9 +2,9 @@
 # 💫 Sobre mim:
 
   
-👨‍💼 Dev Backend Jr. em [Gentil Negócios](https://www.gentilnegocios.com.br/)
+👨‍💼 Engenheiro de Dados em [Gentil Negócios](https://www.gentilnegocios.com.br/)
 
-👨🏻‍🎓 Estudante do Sétimo Período do Curso [Superior de Licenciatura em informática](https://portal.ifrn.edu.br/cursos/superiores/licenciatura/informatica/) do IFRN (Instituto Federal do Rio Grande do Norte).";
+👨🏻‍🎓 Formando - [Superior de Licenciatura em informática](https://portal.ifrn.edu.br/cursos/superiores/licenciatura/informatica/) do IFRN (Instituto Federal do Rio Grande do Norte).";
 
 
   
